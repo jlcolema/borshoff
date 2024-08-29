@@ -1,0 +1,6 @@
+[06-Jan-2012 19:00:41] PHP Fatal error:  Call to undefined function  get_header() in /home3/contenx6/public_html/borshoff/wp-content/themes/borshoff/index.php on line 3
+[06-Jan-2012 19:09:49] PHP Fatal error:  Call to undefined function  get_posts() in /home3/contenx6/public_html/borshoff/wp-content/themes/borshoff/work_matt.php on line 17
+[06-Jan-2012 19:11:16] PHP Fatal error:  Call to undefined function  get_posts() in /home3/contenx6/public_html/borshoff/wp-content/themes/borshoff/work_matt.php on line 22
+[06-Jan-2012 19:12:05] PHP Fatal error:  Call to undefined function  get_header() in /home3/contenx6/public_html/borshoff/wp-content/themes/borshoff/work_matt.php on line 79
+[06-Jan-2012 19:12:44] PHP Fatal error:  Call to undefined function  get_header() in /home3/contenx6/public_html/borshoff/wp-content/themes/borshoff/work_matt.php on line 3
+[06-Jan-2012 19:13:01] PHP Fatal error:  Call to undefined function  get_header() in /home3/contenx6/public_html/borshoff/wp-content/themes/borshoff/work_matt.php on line 11

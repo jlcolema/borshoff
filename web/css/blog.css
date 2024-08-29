@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+.blogWrapper {
+	padding-left:245px;
+	padding-right:350px;
+	position:relative;
+	margin:0;
+}
+
+.blogWrapper nav {
+	position:absolute;
+	top:0;
+	left:0;	
+	margin:0;
+}
+
+.blogWrapper #sidebar {
+	position:absolute;
+	top:0;
+	right:0;
+	margin:0;
+}
+
